@@ -14,11 +14,10 @@
 </div>
 
 [![Platform](https://img.shields.io/badge/Platform-Android-00D9FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/PINAK-WORK/MAP-TOGATHER)
-[![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.RAJKOT-TAPRI&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)](https://github.com/PINAK-WORK/MAP-TOGATHER)
+[![Total Views](https://api.visitorbadge.io/api/visitors?path=PINAK-WORK.MAP-TOGATHER&label=Total%20Views&countColor=%2300D9FF&style=for-the-badge)](https://github.com/PINAK-WORK/MAP-TOGATHER)
 
 ### ✨ About
 MapTogether is for groups on the move. Whether everyone is traveling in different vehicles and trying to stay together or coming from different places to meet at one spot, you can see the whole group on one live map the entire time.
-
 
 
 <br>
